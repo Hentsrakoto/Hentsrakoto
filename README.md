@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate web and mobile developer from Mad
 
 - 🎓 Computer Science student (3nd year)
 - 💻 Frontend developer (HTML, CSS, JavaScript, Tailwind, Vue.js, React)
-- 🛠️ Backend with PHP / Laravel and some Python
+- 🛠️ Backend with PHP / Laravel and some Python and Node
 - 🌍 I enjoy building useful and well-designed web and mobile apps
 - 🤝 Also working on freelance projects with my informal dev team
 
@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate web and mobile developer from Mad
 
 ## 📫 How to Reach Me
 
-- ✉️ Email: hentsrakotonavalona@gmail.com 
+- ✉️ Email: rakotonavalonahents@gmail.com 
 - 🌐 [Portfolio](https://hentsrakoto.netlify.app/) 
 
 ## ⚡ Fun Fact
