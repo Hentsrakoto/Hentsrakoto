@@ -25,7 +25,7 @@ Currently, I’m a **3rd year Computer Science student** and also working on rea
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="40" height="40"/> 
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/f/f5/Monaco_Editor_Logo.png](https://avatars.githubusercontent.com/u/49051982?v=4)" width="40" height="40"/> 
+  <img src="assets/monaco-editor-logo.png" width="40" height="40" alt="Monaco Editor Logo"/>
 </p>
 
 ### ⚙️ Backend  
