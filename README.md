@@ -1,4 +1,4 @@
-# <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/hand-wave.svg" width="30" height="30" style="filter: invert(1) brightness(1.5);" alt="Hi"> Hi, I'm **Hentsrakoto**
+# Hi, I'm **Hentsrakoto**
 
 Welcome to my GitHub!  
 I'm a **Web & Mobile Developer** from **Madagascar 🇲🇬**, passionate about creating impactful and scalable digital solutions.  
