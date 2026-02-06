@@ -8,7 +8,7 @@ Currently, I'm a **3rd-year Computer Science student** at **ESMIA** and an activ
 
 ## <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/rocket.svg" width="20" height="20" style="filter: invert(0.8) sepia(1) saturate(5) hue-rotate(175deg);" alt="Rocket"> About Me
 
-- <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/graduation-cap.svg" width="16" height="16" style="filter: invert(0.9);" alt="Education"> **Computer Science Student (L3 – ESMIA)**  
+- <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/graduation-cap.svg" width="16" height="16" style="filter: invert(0.9);" alt="Education"> **Computer Science Student (M1 – ESMIA)**  
 - <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/globe.svg" width="16" height="16" style="filter: invert(0.8) sepia(1) saturate(5) hue-rotate(100deg);" alt="Globe"> Passionate about **modern web & mobile development**  
 - <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/users.svg" width="16" height="16" style="filter: invert(0.8) sepia(1) saturate(5) hue-rotate(300deg);" alt="Users"> Freelance & team projects with **Start'app Mada**  
 - <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/lightbulb.svg" width="16" height="16" style="filter: invert(0.8) sepia(1) saturate(5) hue-rotate(45deg);" alt="Idea"> Curious about **AI, Machine Learning & Security**  
