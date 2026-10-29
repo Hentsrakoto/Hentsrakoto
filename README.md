@@ -1,88 +1,109 @@
-# Hi, I'm **Hentsrakoto**
+<div align="center">
 
-Welcome to my GitHub!  
-I'm a **Web & Mobile Developer** from **Madagascar 🇲🇬**, passionate about creating impactful and scalable digital solutions.  
-Currently, I'm a **3rd-year Computer Science student** at **ESMIA** and an active member of **Start'app Mada**.
+<sub>LE CARNET DE DÉVELOPPEMENT · ANTANANARIVO, MADAGASCAR</sub>
 
----
+# Henintsoa Rakotonavalona
 
-## <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/rocket.svg" width="20" height="20" style="filter: invert(0.8) sepia(1) saturate(5) hue-rotate(175deg);" alt="Rocket"> About Me
+**Hentsrakoto · Développeur web & mobile**
 
-- <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/graduation-cap.svg" width="16" height="16" style="filter: invert(0.9);" alt="Education"> **Computer Science Student (M1 – ESMIA)**  
-- <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/globe.svg" width="16" height="16" style="filter: invert(0.8) sepia(1) saturate(5) hue-rotate(100deg);" alt="Globe"> Passionate about **modern web & mobile development**  
-- <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/users.svg" width="16" height="16" style="filter: invert(0.8) sepia(1) saturate(5) hue-rotate(300deg);" alt="Users"> Freelance & team projects with **Start'app Mada**  
-- <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/lightbulb.svg" width="16" height="16" style="filter: invert(0.8) sepia(1) saturate(5) hue-rotate(45deg);" alt="Idea"> Curious about **AI, Machine Learning & Security**  
-- <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/car.svg" width="16" height="16" style="filter: invert(0.8) sepia(1) saturate(5) hue-rotate(200deg);" alt="Car"> Fan of **classic cars** (Renault 4L & Super 5)
+Des interfaces Vue et React, des API Spring Boot et Python, et les données qui les relient.
 
----
+[Portfolio](https://hentsrakoto.netlify.app/) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/henintsoa-rakotonavalona-366404390/) &nbsp; / &nbsp; [Me contacter](mailto:rakotonavalonahents@gmail.com)
 
-## <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/screwdriver-wrench.svg" width="20" height="20" style="filter: invert(0.8) sepia(1) saturate(5) hue-rotate(160deg);" alt="Tools"> Tech Stack
+<br>
 
-### <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/desktop.svg" width="18" height="18" style="filter: invert(0.8) sepia(1) saturate(5) hue-rotate(180deg);" alt="Frontend"> Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-242424?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-242424?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-242424?style=flat-square&logo=typescript&logoColor=3178C6)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-242424?style=flat-square&logo=springboot&logoColor=6DB33F)
+![Python](https://img.shields.io/badge/Python-242424?style=flat-square&logo=python&logoColor=FFD43B)
+![Docker](https://img.shields.io/badge/Docker-242424?style=flat-square&logo=docker&logoColor=2496ED)
 
-### <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/server.svg" width="18" height="18" style="filter: invert(0.8) sepia(1) saturate(5) hue-rotate(220deg);" alt="Backend"> Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/toolbox.svg" width="18" height="18" style="filter: invert(0.8) sepia(1) saturate(5) hue-rotate(280deg);" alt="Tools"> Tools & Others
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+</div>
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/book-open.svg" width="20" height="20" style="filter: invert(0.8) sepia(1) saturate(5) hue-rotate(60deg);" alt="Learning"> Currently Learning
+## Quelques repères
 
-- <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/mobile.svg" width="16" height="16" style="filter: invert(0.8) sepia(1) saturate(5) hue-rotate(120deg);" alt="Mobile"> **Android Development** with Kotlin & Jetpack Compose
-- <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/book.svg" width="16" height="16" style="filter: invert(0.8) sepia(1) saturate(5) hue-rotate(20deg);" alt="Book"> Building a **Full-featured EPUB Reader**
-- <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/shield-halved.svg" width="16" height="16" style="filter: invert(0.8) sepia(1) saturate(5) hue-rotate(250deg);" alt="Security"> **Authentication (Google OAuth)** & app security best practices
-- <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/paintbrush.svg" width="16" height="16" style="filter: invert(0.8) sepia(1) saturate(5) hue-rotate(320deg);" alt="Design"> **UI/UX design** and clean architecture
+Je suis développeur à Antananarivo et étudiant en **Master 1 MIAGE à l’ESMIA**, après une licence en informatique. J’ai travaillé sur une boutique en ligne chez **PlanetGame Madagascar**, du frontend Vue.js aux API CodeIgniter et à la base MySQL.
+
+Aujourd’hui, je développe **TSIDIKA**, une plateforme de recommandation touristique à Madagascar, et je travaille sur des projets web, mobiles et de traitement de données. Ce qui m’intéresse : comprendre un besoin, le traduire dans l’interface et suivre ce qui se passe jusqu’à la base de données.
+
+**Disponible pour un poste, un stage ou une mission freelance en développement web.**
+
+## À la une
+
+### [SmartEnergy Hub ↗](https://github.com/Hentsrakoto/smartenergy-hub)
+
+**Suivre le parcours d’une mesure, du capteur à l’analyse.**
+
+Projet académique de supervision énergétique : un simulateur émet des mesures, le Collector les valide, Redis Streams les transporte et le Storage les persiste dans Cassandra et MongoDB.
+
+- Historique par capteur, consommation estimée et détection des dépassements de seuil.
+- Reprise des messages non acquittés et traitement des rejeux.
+- API documentée avec Swagger, métriques Actuator et profils de configuration locaux.
+- **111 tests automatisés** sur les deux services Spring Boot.
+
+`Java` · `Spring Boot` · `Redis Streams` · `Cassandra` · `MongoDB` · `Docker Compose`
+
+<sub>État actuel : MVP réalisé. La détection repose sur des seuils configurables ; aucun modèle de prévision entraîné pour le moment.</sub>
+
+## Autres réalisations
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>01 / TSIDIKA</h3>
+<p>Recommandation et planification touristique à Madagascar. Je développe le frontend React et l’API REST Spring Boot.</p>
+<p><code>React</code> <code>Spring Boot</code> <code>PostgreSQL</code> <code>Python</code></p>
+<p><sub>En cours · dépôt privé</sub></p>
+</td>
+<td width="50%" valign="top">
+<h3>02 / PlanetGame</h3>
+<p>Boutique en ligne gaming et high-tech. Travail sur les interfaces, les utilisateurs, les produits et les commandes, avec intégration d’OpenStreetMap et de l’API Gemini.</p>
+<p><code>Vue.js</code> <code>CodeIgniter 4</code> <code>MySQL</code></p>
+<p><a href="https://planetgamemg.com/">Voir le site ↗</a> · <sub>Expérience professionnelle</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>03 / AccessBible</h3>
+<p>Application mobile de lecture de la Bible. Interface adaptative, navigation de lecture, API FastAPI et stockage local SQLite.</p>
+<p><code>React Native</code> <code>Expo</code> <code>FastAPI</code> <code>SQLite</code></p>
+<p><sub>Projet mobile présenté dans mon portfolio</sub></p>
+</td>
+<td width="50%" valign="top">
+<h3>04 / Expérimentations</h3>
+<p>CV Maker avec Vue 3 et jsPDF, MusicApp, algorithmes, préparation de données et systèmes de recommandation.</p>
+<p><code>Vue 3</code> <code>JavaScript</code> <code>Python</code> <code>ETL</code></p>
+<p><sub>Projets académiques · ESMIA</sub></p>
+</td>
+</tr>
+</table>
+
+## Mes outils, selon le projet
+
+| Domaine | Technologies |
+| :--- | :--- |
+| Interfaces web | Vue.js, React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS |
+| Backend & API | Java, Spring Boot, PHP, CodeIgniter 4, Laravel, Python, FastAPI |
+| Mobile | React Native, Expo |
+| Bases de données | PostgreSQL, MySQL, SQLite ; Cassandra et MongoDB dans SmartEnergy Hub |
+| Flux & environnement | Redis Streams, Docker, Git, Maven, Linux, Postman |
+| Exploration data | ETL, Machine Learning et systèmes de recommandation dans mes projets universitaires |
+
+## En dehors du code
+
+Basket, volley, musique et gaming.
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/diagram-project.svg" width="20" height="20" style="filter: invert(0.8) sepia(1) saturate(5) hue-rotate(140deg);" alt="Projects"> Featured Projects
+<div align="center">
 
-### <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/gamepad.svg" width="18" height="18" style="filter: invert(0.8) sepia(1) saturate(5) hue-rotate(80deg);" alt="Game"> [PlanetGameMG](https://planetgamemg.com)
-E-commerce & stock management system for a video game shop
+**Un projet à discuter ?**
 
-### <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/screwdriver-wrench.svg" width="18" height="18" style="filter: invert(0.8) sepia(1) saturate(5) hue-rotate(160deg);" alt="Tools"> Garage Management System
-Java Swing + MySQL project for managing automotive workshop operations
+[rakotonavalonahents@gmail.com](mailto:rakotonavalonahents@gmail.com)
 
-### <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/music.svg" width="18" height="18" style="filter: invert(0.8) sepia(1) saturate(5) hue-rotate(300deg);" alt="Music"> Music Player Web App
-React frontend with Python (Bottle) backend for music streaming
+<sub>Plus de détails sur mon parcours et mes réalisations dans mon <a href="https://hentsrakoto.netlify.app/">portfolio</a>.</sub>
 
-### <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/code.svg" width="18" height="18" style="filter: invert(0.8) sepia(1) saturate(5) hue-rotate(40deg);" alt="Code"> My-editor
-Electron-based code editor with Express backend, React frontend, Monaco Editor and Tailwind CSS
-
----
-
-## <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/chart-simple.svg" width="20" height="20" style="filter: invert(0.8) sepia(1) saturate(5) hue-rotate(200deg);" alt="Stats"> GitHub Stats
-
-![Hentsrakoto's GitHub stats](https://github-readme-stats.vercel.app/api?username=hentsrakoto&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hentsrakoto&layout=compact&theme=radical)
-
----
-
-## <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/envelope.svg" width="20" height="20" style="filter: invert(0.8) sepia(1) saturate(5) hue-rotate(10deg);" alt="Contact"> Connect With Me
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakotonavalonahents@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hentsrakoto.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hentsrakoto/)
-
----
-
-<img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/star.svg" width="16" height="16" style="filter: invert(0.8) sepia(1) saturate(5) hue-rotate(45deg);" alt="Star"> *From [Hentsrakoto](https://github.com/hentsrakoto) with love*
+</div>
